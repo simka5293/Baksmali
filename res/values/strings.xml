@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="hello">Hello World, MainActivity!</string>
     <string name="app_name">Baksmali</string>
-
+	<string name="action_exit">Выйти</string>
+	<string name="action_run">Выполнить</string>
+	<string name="action_reset">Очистить</string>
+	<string name="action_open">Открыть</string>
+	<string name="action_back">Вернуться</string>
+	<string name="action_settings">Настройки</string>
 </resources>
